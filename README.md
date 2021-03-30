@@ -10,7 +10,7 @@ Personal project for learning new stuff 😊
 - ✅ Navigate Between Pages
 - ✅ Assets, Metadata, and CSS
 - ✅ Pre-rendering and Data Fetching
-- ⬜ Dynamic Routes
+- ✅ Dynamic Routes
 - ⬜ API Routes
 - ⬜ Deploying Your Next.js App
 - ⬜ Typescript
