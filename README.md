@@ -1,10 +1,8 @@
-# Learning Next.js and Tailwind CSS
+# Learning Next.js
 
-Personal project for learning new stuff 😊
+Personal project for learning Next.js following the [Official Next.js guide](https://nextjs.org/learn/basics/create-nextjs-app) 😊
 
-## [nextjs-blog](./nextjs-blog/README.md)
-
-[Official Next.js guide](https://nextjs.org/learn/basics/create-nextjs-app)
+## Checklist
 
 - ✅ Create a Next.js App
 - ✅ Navigate Between Pages
