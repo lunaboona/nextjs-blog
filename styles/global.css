@@ -27,3 +27,10 @@ img {
   max-width: 100%;
   display: block;
 }
+
+blockquote {
+  border-inline-start: 4px solid #eaeaea;
+  padding-inline-start: 1em;
+  margin-inline: 0;
+  font-style: italic;
+}

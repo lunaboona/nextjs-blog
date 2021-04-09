@@ -1,19 +1,19 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: 'when 2 use static genewation vs sewvew-side wendewing'
 date: '2020-01-02'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+we wecommend using **static genewation** (with awnd without data) whenevew possibwe because youw page cawn be buiwt once awnd sewved by cdn, which makes iwt much fastew than having a sewvew wendew the page own evewy wequest.
 
-You can use Static Generation for many types of pages, including:
+uwu cawn use static genewation fow many types of pages, incwuding:
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+- mawketing pages
+- bwog posts
+- e-commewce pwoduct wistings
+- hewp awnd documentation
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+uwu shouwd awsk youwsewf: "can i pwe-wendew this page **ahead** of a usew's wequest?" if the answew is yes, then uwu shouwd choose static genewation.
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+own the othew hawnd, static genewation is **not** a good idea if uwu cannot pwe-wendew a page ahead of a usew's wequest. maybe youw page shows fwequentwy updated data, awnd the page content changes own evewy wequest.
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+in thawt case, uwu cawn use **sewvew-side wendewing**. it wiww be swowew, but the pwe-wendewed page wiww awways be up-to-date. ow uwu cawn skip pwe-wendewing awnd use cwient-side javascwipt tuwu popuwate data.

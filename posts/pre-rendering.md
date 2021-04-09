@@ -1,11 +1,11 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'two fowms of pwe-wendewing'
 date: '2020-01-01'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+next.js has two fowms of pwe-wendewing: **static genewation** awnd **sewvew-side wendewing**. the diffewence is in **when** it genewates the html fow a page uwu
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+- **static genewation** is the pwe-wendewing method that genewates the html at **buiwd time**. the pwe-wendewed html is then _weused_ on each wequest.
+- **sewvew-side wendewing** is the pwe-wendewing method that genewates the html on **each wequest**.
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+impowtantwy, next.js wets uwu **choose** which pwe-wendewing fowm tuwu use fow each page. uwu can cweate a "hybwid" next.js app by using static genewation fow most pages awnd using sewvew-side wendewing fow othews.
